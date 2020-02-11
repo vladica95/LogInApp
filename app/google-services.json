@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701479132777",
+    "firebase_url": "https://vlad-loginapp.firebaseio.com",
+    "project_id": "vlad-loginapp",
+    "storage_bucket": "vlad-loginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701479132777:android:260b33d1054dccda",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701479132777-innam417bpoq0k4afcpjumud99skoc8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xcmu2ZmFOGXQ53qyyJ0zla-L26gLTUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701479132777-innam417bpoq0k4afcpjumud99skoc8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
